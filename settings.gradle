@@ -1,0 +1,3 @@
+include ':androidcode'
+include ':app'
+rootProject.name = "AndroidJavaLibrary"
